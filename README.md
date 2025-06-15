@@ -12,3 +12,4 @@ Resources for wallpapers:
 - [Wallpaper Flare](https://www.wallpaperflare.com/)
 - [r/wallpapers](https://www.reddit.com/r/wallpapers/)
 - [4K Wallpapers](https://4kwallpapers.com/)
+- [wallhaven](https://wallhaven.cc/)
